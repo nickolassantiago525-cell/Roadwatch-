@@ -1,8 +1,8 @@
 {
   "name": "RoadWatch — GPS Road Alerts",
   "short_name": "RoadWatch",
-  "description": "Road map, GPS speed, mapped traffic infrastructure, and local police-report alerts.",
-  "start_url": "./index.html",
+  "description": "GPS driving speed, mapped limits, speed warnings, road cameras, and local police reports.",
+  "start_url": "./index.html?v=2",
   "display": "standalone",
   "background_color": "#080f1c",
   "theme_color": "#080f1c",
